@@ -1,0 +1,96 @@
+body{
+    margin:0px;
+}
+
+/* --------------- */
+.Trangchu {
+   width:100%;
+   height:740px; 
+   background-image:linear-gradient(0,rgba(38, 36, 36, 0.3),rgba(38, 36, 36, 0.3)),
+   url(../img/lam4.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+
+:root{
+    --color:white;
+}
+
+.l1{
+    display:flex;
+    background-image: linear-gradient(0,rgba(24, 23, 23,0.3),rgba(24, 23, 23,0.3));
+}
+
+.l2{  
+    margin:20px 60px 15px 600px;
+    color:var(--color)
+}
+
+.l3{  
+    margin:20px 60px 15px 0px;
+    color:var(--color)
+}
+
+.l4{
+    margin:20px 0px 15px 0px;
+    color:var(--color)
+}
+
+.logo-chicken{
+    width:200px;
+    height:60px;
+    margin:15px 15px 15px 30px;
+}
+
+a{
+    text-decoration: none;
+}
+/* ----------------------------------- */
+
+
+
+#Thongtin{
+    width:100%;
+    height:740px; 
+    background-image:linear-gradient(0,rgba(38, 36, 36, 0.3),rgba(38, 36, 36, 0.3)),
+    url(../img/lam.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.a{
+     margin-left: 30px ;
+}
+.GioiThieu{
+    color:white;
+}
+.ChuyenMon{
+    margin-top: 0px;
+}
+
+
+
+/* ----------------------- */
+#Kynang{
+    width:100%;
+    height:740px; 
+    background-image:linear-gradient(0,rgba(38, 36, 36, 0.3),rgba(38, 36, 36, 0.3)),
+    url(../img/lam1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+
+
+#Dichvu{
+    width:100%;
+    height:740px; 
+    background-image:linear-gradient(0,rgba(38, 36, 36, 0.3),rgba(38, 36, 36, 0.3)),
+    url(../img/lam3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+/* ----------------------------- */
+
+   
+      
+  
